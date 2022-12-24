@@ -243,6 +243,7 @@ main {
   }
   .review__card {
     text-align: left;
+    width: 100%;
   }
 
   .review__card:nth-child(2) {
