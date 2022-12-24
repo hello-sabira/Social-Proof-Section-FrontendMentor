@@ -115,7 +115,7 @@ main {
 
 .review__cards {
   justify-content: space-between;
-  gap: 2em;
+  gap: 1.5em;
 }
 .review__card {
   display: flex;
@@ -132,10 +132,10 @@ main {
 }
 
 .review__card:nth-child(2) {
-  margin-top: 1rem;
+  margin-top: 2rem;
 }
 .review__card:nth-child(3) {
-  margin-top: 2rem;
+  margin-top: 4rem;
 }
 
 .reviewer__profile {
